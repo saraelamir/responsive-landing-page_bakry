@@ -1,41 +1,63 @@
-# Responsive Landing Page
+# Family Bakery — Responsive Landing Page 🥐
 
-A responsive landing page project built to provide a visually appealing and user-friendly experience across different screen sizes.
+A responsive landing page for a bakery website, designed to showcase bakery products, introduce the business, display location and contact information, and provide a welcoming browsing experience across different screen sizes.
 
 ## 🔗 Live Demo
 
 [View Live Demo](https://responsive-landing-pagebakry-durvhh5td-saraelamirs-projects.vercel.app/)
 
-## 📂 Repository
+## 📂 GitHub Repository
 
-[View Source Code on GitHub](https://github.com/saraelamir/responsive-landing-page_bakry)
+[View Source Code](https://github.com/saraelamir/responsive-landing-page_bakry)
 
 ## 📸 Screenshots
 
-### Landing Page — Screenshot 1
+### Home Page
 
-![Responsive Landing Page Screenshot 1](./image%20%2812%29.png)
+![Family Bakery Home Page](https://raw.githubusercontent.com/saraelamir/responsive-landing-page_bakry/main/image%20%2812%29.png)
 
-### Landing Page — Screenshot 2
+### Website Sections
 
-![Responsive Landing Page Screenshot 2](./image%20%2813%29.png)
+![Family Bakery Website Sections](https://raw.githubusercontent.com/saraelamir/responsive-landing-page_bakry/main/image%20%2813%29.png)
 
 ## ✨ Features
 
-- Responsive layout for different screen sizes.
-- Interactive carousel slider.
-- Clean and organized page structure.
-- User-friendly browsing experience.
+- Responsive landing page layout for different screen sizes.
+- Bakery introduction and business information.
+- Bakery products showcase.
+- Location and contact information.
+- Opening hours and business details.
+- Custom CSS styling and responsive stylesheets.
+- Font Awesome icons.
+- Owl Carousel library integration.
 
-## 🛠️ Technologies & Libraries
+## 🛠️ Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript
-- jQuery
-- Owl Carousel 2
+- **HTML5** — Website structure and content.
+- **CSS3** — Custom styling and page layout.
+- **JavaScript** — Interactive functionality.
+- **Bootstrap 5.3.3** — Responsive layout and UI utilities.
+- **jQuery** — DOM manipulation.
+- **Owl Carousel 2** — Carousel library integration.
+- **Font Awesome 6.6.0** — Icons.
 
-*The technology list should be verified against the project's source files.*
+## 📁 Project Structure
+
+```text
+responsive-landing-page_bakry/
+├── css/
+│   ├── style.css
+│   ├── responsive.css
+│   ├── owl.carousel.min.css
+│   └── owl.theme.default.css
+├── images/
+├── js/
+│   ├── jquery-3.7.1.min.js
+│   ├── owl.carousel.min.js
+│   └── main.js
+├── index.html
+└── README.md
+```
 
 ## 🚀 Getting Started
 
@@ -45,9 +67,13 @@ A responsive landing page project built to provide a visually appealing and user
    git clone https://github.com/saraelamir/responsive-landing-page_bakry.git
    ```
 
-2. Open the project folder.
+2. Navigate to the project folder:
 
-3. Open `index.html` in your browser, or follow the project's setup instructions if a local server is required.
+   ```bash
+   cd responsive-landing-page_bakry
+   ```
+
+3. Open `index.html` in your browser to view the website.
 
 ## 👩‍💻 Developer
 
@@ -58,4 +84,4 @@ A responsive landing page project built to provide a visually appealing and user
 
 ---
 
-Created as a frontend practice project focused on responsive web design and interactive page elements.
+A frontend practice project focused on responsive web design, website layout, and interactive UI components.
