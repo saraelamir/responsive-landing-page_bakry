@@ -14,11 +14,11 @@ A responsive landing page for a bakery website, designed to showcase bakery prod
 
 ### Home Page
 
-![Family Bakery Home Page](https://raw.githubusercontent.com/saraelamir/responsive-landing-page_bakry/main/image%20%2812%29.png)
+![Family Bakery Home Page](./screenshots/image%20(12).png)
 
 ### Website Sections
 
-![Family Bakery Website Sections](https://raw.githubusercontent.com/saraelamir/responsive-landing-page_bakry/main/image%20%2813%29.png)
+![Family Bakery Website Sections](./screenshots/image%20(13).png)
 
 ## ✨ Features
 
